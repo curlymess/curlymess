@@ -37,6 +37,7 @@
 
 
 ### :woman_technologist: Github Stats
-[![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?username=curlymess&count_private=true&show_icons=true&hide=prs,contribs&theme=transparent&title_color=ff66c4&text_color=361b0e&icon_color=ff66c4&border_color=ff66c4)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curlymess&count_private=true&langs_count=10&layout=compact&theme=transparent&title_color=ff66c4&text_color=361b0e&icon_color=ff66c4&border_color=ff66c4)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row;">
+  <img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api?username=curlymess&count_private=true&show_icons=true&hide=prs,contribs&theme=transparent&title_color=ff66c4&text_color=361b0e&icon_color=ff66c4&border_color=ff66c4" />
+  <img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curlymess&count_private=true&langs_count=8&layout=compact&theme=transparent&title_color=ff66c4&text_color=361b0e&icon_color=ff66c4&border_color=ff66c4" />
+ </div>
