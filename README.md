@@ -1,6 +1,6 @@
 ![github banner](https://user-images.githubusercontent.com/54120650/226444932-c319b520-af0d-4ebe-91d6-84552d779065.png)
 
-### Hi there 👋
+### heyy there 👋
 
 :space_invader:	 Computer Science MS Candidate, Human Computer Interaction, Stanford University
 
